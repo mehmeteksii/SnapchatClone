@@ -10,7 +10,7 @@ Feed bölümünde diğer kullanıcıların paylaştığı resimler bulunuyor.
 
 <img width="260" alt="Ekran Resmi 2023-03-01 14 21 47" src="https://user-images.githubusercontent.com/92593948/222126843-5f870eac-ee80-4a67-980d-3ff4807380df.png">
 
-Eğer kullanıcıların diğer resimlerine bakmak isterseniz resmin üstüne tıklayıp açılan pencerede kaydırarak kullanıcının diğer resimlerinide görebiliyorsunuz.
+Eğer kullanıcıların diğer resimlerine bakmak isterseniz resmin üstüne tıklayıp açılan pencerede kaydırarak kullanıcının diğer resimlerini ve resimlerin silinmesi için kaç saat kaldığını görebiliyorsunuz.
 
 <img width="275" alt="Ekran Resmi 2023-03-01 14 24 23" src="https://user-images.githubusercontent.com/92593948/222127301-6ba850b8-c695-476e-a581-380e7623a0ee.png">
 
